@@ -1,11 +1,5 @@
-droidatoll-sysfs-torch (0.0.2) bookworm; urgency=medium
+droidian-sysfs-torch (0.0.2) bookworm; urgency=medium
 
-  * Fix systemd service file.
+  * add [Install] to systemd service
 
- -- Marcel Alexandru Nitan <nitanmarcel@protonmail.com>  Fri, 25 Nov 2022 20:09:26 +0200
-
-droidatoll-sysfs-torch (0.0.1) bookworm; urgency=medium
-
-  * Initial release.
-
- -- Marcel Alexandru Nitan <nitanmarcel@protonmail.com>  Fri, 25 Nov 2022 19:00:26 +0200
+ -- Bardia Moshiri <fakeshell@bardia.tech>  Sun, 25 Nov 2022 06:38:26 +0330
