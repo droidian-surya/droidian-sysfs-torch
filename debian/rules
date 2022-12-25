@@ -1,5 +1,8 @@
- #!/usr/bin/make -f
+#!/usr/bin/make -f
 #  export QT_SELECT := qt5
 
-  %:
-      dh $@
+%:
+	dh $@
+
+override_dh_installsystemd:
+	dh_installsystemd -pdroidian-sysfs-torch --name droidian-sysfs-torch droidian-sysfs-torch.service --no-start

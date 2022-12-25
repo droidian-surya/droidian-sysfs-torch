@@ -1,5 +1,5 @@
-droidian-sysfs-torch (0.0.2) bookworm; urgency=medium
+droidian-sysfs-torch (0.0.3) bookworm; urgency=medium
 
-  * add [Install] to systemd service
+  * change service type from static to a simple service
 
- -- Bardia Moshiri <fakeshell@bardia.tech>  Sun, 25 Nov 2022 06:38:26 +0330
+ -- Bardia Moshiri <fakeshell@bardia.tech>  Sun, 25 Nov 2022 11:50:40 +0330

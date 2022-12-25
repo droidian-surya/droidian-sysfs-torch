@@ -11,5 +11,4 @@ Vcs-Git: https://github.com/droidian-surya/droidian-sysfs-torch.git
 Package: droidian-sysfs-torch
 Architecture: all
 Depends: ${misc:Depends}, ${shlibs:Depends}, libqt5core5a
-Description: This service looks for changes in /
- <insert long description, indented with spaces>
+Description: This service looks for changes in flashlightd dbus and applies it
