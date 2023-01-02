@@ -9,6 +9,6 @@ Vcs-Browser: https://github.com/droidian-surya/droidian-sysfs-torch
 Vcs-Git: https://github.com/droidian-surya/droidian-sysfs-torch.git
 
 Package: droidian-sysfs-torch
-Architecture: all
+Architecture: arm64
 Depends: ${misc:Depends}, ${shlibs:Depends}, libqt5core5a
 Description: This service looks for changes in flashlightd dbus and applies it
